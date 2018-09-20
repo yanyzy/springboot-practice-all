@@ -10,6 +10,9 @@
     <modules>
         <module>springboot-mybatis</module>
         <module>springboot-rabbitmq</module>
+        <module>jpush-demo</module>
+        <module>spring-boot-security</module>
+        <module>mq-demo</module>
     </modules>
 
     <parent>

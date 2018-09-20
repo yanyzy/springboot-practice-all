@@ -19,7 +19,7 @@ public class Config {
 
     static final String topicExchangeName = "spring-boot-exchange";
 
-    static final String queueName = "spring-boot";
+    private static final String queueName = "spring-boot";
 
     @Bean
     Queue queue() {
